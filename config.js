@@ -1,9 +1,10 @@
-'use strict';
+'use strict'
 
 module.exports = {
   url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'ArabRAS Podcast',
+  subtitle:
+    'A podcast focuses on the resillince, attitude and survival mode. The ras (head in english)',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -11,28 +12,29 @@ module.exports = {
   menu: [
     {
       label: 'Articles',
-      path: '/'
+      path: '/',
     },
     {
       label: 'About me',
-      path: '/pages/about'
+      path: '/pages/about',
     },
     {
       label: 'Contact me',
-      path: '/pages/contacts'
-    }
+      path: '/pages/contacts',
+    },
   ],
   author: {
     name: 'John Doe',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio:
+      'A podcast focuses on the resillince, attitude and survival mode. The ras (head in english)',
     contacts: {
       email: '#',
       telegram: '#',
       twitter: '#',
       github: '#',
       rss: '#',
-      vkontakte: '#'
-    }
-  }
-};
+      vkontakte: '#',
+    },
+  },
+}
