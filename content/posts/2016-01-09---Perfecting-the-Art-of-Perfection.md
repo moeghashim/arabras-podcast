@@ -1,15 +1,22 @@
 ---
+template: post
 title: Perfecting the Art of Perfection
-date: "2016-09-01T23:46:37.121Z"
-template: "post"
+slug: /posts/perfecting-the-art-of-perfection/
 draft: false
-slug: "/posts/perfecting-the-art-of-perfection/"
-category: "Design Inspiration"
+date: '2016-09-01T23:46:37.121Z'
+description: >-
+  Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum
+  magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et
+  ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit
+  dolor. Sed non quam. In vel mi sit amet augue congue elementum.
+category: Design Inspiration
 tags:
-  - "Handwriting"
-  - "Learning to write"
-description: "Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum."
+  - Handwriting
+  - Learning to write
 ---
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/358320332&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+
 
 Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.
 
