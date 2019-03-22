@@ -1,10 +1,12 @@
 ---
 template: post
-title: 'First Episode: Al Far3i/الحلقة الأولى: الفرعي'
+title: Al Far3i/ الفرعي
 slug: alfar3i
 draft: false
 date: 2019-03-22T09:47:00.307Z
-description: First
+description: >-
+  Al far3i is an alternative musician from Amman. He discusses the challenges he
+  faced in the region.
 category: Music
 tags:
   - music
