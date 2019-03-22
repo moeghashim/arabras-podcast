@@ -1,10 +1,10 @@
 ---
 template: post
-title: 'Second Episode: Ahmad Fahed Al Shaqra/الحلقة الثانية: أحمد فهد الشقرا'
+title: Ahmad Fahed Al Shaqra/أحمد فهد الشقرا
 slug: ahmad-fahed
 draft: false
 date: 2019-03-22T10:04:47.098Z
-description: Second
+description: 'Ahmad gave up the American nationality because it''s against his belief. '
 category: Entrepreneurship
 tags:
   - entrepreneurship
