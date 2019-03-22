@@ -24,7 +24,7 @@ module.exports = {
     },
   ],
   author: {
-    name: 'John Doe',
+    name: 'ArabRAS Podcast',
     photo: '/photo.jpg',
     bio:
       'A podcast focuses on the resillince, attitude and survival mode. The ras (head in english)',
