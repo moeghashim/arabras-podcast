@@ -1,0 +1,12 @@
+---
+template: post
+title: Nada Haneieh/ندى هنية
+slug: nada-haneieh
+draft: true
+date: 2019-03-26T14:23:57.877Z
+description: Test
+category: Entrepreneurship
+tags:
+  - entrepreneurship
+---
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/345806510&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
